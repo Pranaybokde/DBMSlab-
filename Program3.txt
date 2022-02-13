@@ -7,7 +7,7 @@
     
       | employee_id | first_name  | last_name   | email                             | phone  |
       +-------------+-------------+-------------+-----------------------------------+--------|
-      |         100 | Pravesh     | Tiwari      |  praveshtiwari@sqltutorial.org    |        |
+      |         100 | Pranay     | Bokde     |  pranaybokde@sqltutorial.org    |        |
       |         101 | Roy         | Chandra     |  roychandra@sqltutorial.org       |        |
       |         102 | Jatin       | Chai        |  jatin.chai@sqltutorial.org       |        |
       |                                                                             |        |
@@ -23,7 +23,7 @@
 
       | employee_id | first_name  | last_name   | phone  |
       +-------------+-------------+-------------+--------+
-      |         100 | Pravesh     |  Tiwari     |        |
+      |         100 | Pranay      |  Bokde   |        |
       |         101 | Roy         | Chandra     |        |
       |         102 | Jatin       | Chai        |        |
       |                                                  |
