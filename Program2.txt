@@ -13,7 +13,7 @@
      
       | employee_id | first_name  | last_name   | email                             | 
       +-------------+-------------+-------------+-----------------------------------+
-      |         100 | pravesh     | tiwari      | praveshtiwari@sqltutorial.org     | 
+      |         100 | pranay      | Bokde       | pranaybokde@sqltutorial.org     | 
       |         101 | Roy         | Chandra     | roymishra@sqltutorial.org         | 
       |         102 | Jatin       | Chai        | jatin.chai@sqltutorial.org        | 
       |         103 | Prayes      | mohan       | prayesmohan@sqltutorial.org       |
@@ -32,7 +32,7 @@
      
       | employee_id | first_name  | last_name   | email                             | 
       +-------------+-------------+-------------+-----------------------------------+
-      |         100 | pravesh     | tiwari      | praveshtiwari@sqltutorial.org     | 
+      |         100 | Pranay      | Bokde       | pranaybokde@sqltutorial.org     | 
       |         101 | Roy         | Chandra     | roymishra@sqltutorial.org        | 
       |         102 | Jatin       | Chai        | jatin.chai@sqltutorial.org        | 
      
