@@ -6,13 +6,13 @@
   
       INSERT INTO EMPLOYEE (EMPLOYEE_ID,FIRST_NAME,LAST_NAME,EMAIL,)
       VALUES
-             ( 100, 'Pravesh' ,  'Tiwari'  , 'praveshtiwari@sqltutorial.org' ) ,     
+             ( 100, 'Pranay' ,  'Bokde'  , 'pranaybokde@sqltutorial.org' ) ,     
              ( 101,' Roy', 'Mishra'   , 'roymishra@sqltutorial.org'  ),    
      
         SELECT * FROM employees;
       | employee_id | first_name  | last_name   | email                             | 
       +-------------+-------------+-------------+-----------------------------------+
-      |         100 |Pravesh      |Tiwari       | praveshtiwari@sqltutorial.org     | 
+      |         100 |Pranay    |Bokde       | pranaybokde@sqltutorial.org     | 
       |         101 |  Roy        | Mishra      | roymishra@sqltutorial.org         | 
       
      DROP TABLE employees;
